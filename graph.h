@@ -10,7 +10,7 @@
 #include <vector>
 #include "heap.h"
 #include "pair.cpp"
-// #include "std::vector.cpp"
+#include "vector.h"
 
 // Type definitions
 typedef std::vector<std::vector<std::pair<int, int>>> AdjacencyType;
